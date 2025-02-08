@@ -1,5 +1,5 @@
 
-# Altomação de Processos
+# Automação de Processos
 Esses scripts foram desenvolvidos com o objetivo de altomatizar o processo validação, organização, renomeio e integridade de dados de arquivos de um Cartório de Registro de Imóveis.
 ## Autores 
 - [@CodeKey](https://www.github.com/ccodekey)
@@ -8,7 +8,7 @@ Esses scripts foram desenvolvidos com o objetivo de altomatizar o processo valid
 
 ```bash
 ├── contador.py            # Verifica se todos os 400 arquivos estão presentes e validos na pasta
-├── converter_1.py         # Captura todos o arquivos ´peg e converte para JPG
+├── converter_1.py         # Captura todos o arquivos jpeg e converte para JPG
 ├── converter_2.py         # Captura todos os arquivos JPG e converte para TIFF
 ├── rename.py              # Captura todos os arquivos e os renomeia em ordem crescente
 └── README.md              # Documentação do projeto 
